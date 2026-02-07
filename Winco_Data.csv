@@ -1,0 +1,589 @@
+IMAGE,GROUP,ITEM,PRICE_PER_LB,PRICE_PER_OZ,DATE_GATHERED,STORE
+1302.jpg,baking_powders,ROLLED RED WHEAT FLAKES,$1.18 ,$0.07 ,1/30/26,Winco_MoVal
+1337.jpg,baking_powders,DARK CHOCOLATE FLAVORED MELT,$5.88 ,$0.37 ,2/1/26,Winco_MoVal
+1352.jpg,baking_powders,ALMOND FLOUR BLANCHED,$4.98 ,$0.31 ,1/30/26,Winco_MoVal
+1371.jpg,baking_powders,TAPIOCA FLOUR STARCH,$2.08 ,$0.13 ,1/30/26,Winco_MoVal
+1398.jpg,baking_powders,COUNTRY GRAVY MIX,$3.58 ,$0.22 ,2/1/26,Winco_MoVal
+1401.jpg,baking_powders,BOBS RED MILL SPELT FLOUR,$2.68 ,$0.17 ,1/30/26,Winco_MoVal
+1404.jpg,baking_powders,FLAX SEEDS,$2.28 ,$0.14 ,1/30/26,Winco_MoVal
+1405.jpg,baking_powders,HULLED MILLET,$1.18 ,$0.07 ,1/30/26,Winco_MoVal
+1406.jpg,baking_powders,FLAX SEED MEAL,$2.18 ,$0.14 ,1/30/26,Winco_MoVal
+1407.jpg,baking_powders,WHOLE BLACK CHIA SEEDS,$3.68 ,$0.23 ,1/30/26,Winco_MoVal
+1412.jpg,baking_powders,WHITE RICE FLOUR GLUTEN FREE,$2.08 ,$0.13 ,1/30/26,Winco_MoVal
+1417.jpg,baking_powders,VITAL WHEAT GLUTEN,$3.78 ,$0.24 ,2/1/26,Winco_MoVal
+1426.jpg,baking_powders,NATURAL ALMOND FLOUR,$4.38 ,$0.27 ,1/30/26,Winco_MoVal
+1459.jpg,baking_powders,PANKO BREAD CRUMBS,$2.28 ,$0.14 ,2/1/26,Winco_MoVal
+1460.jpg,baking_powders,SEA SALT EXTRA COARSE (CARGILL),$0.68 ,$0.04 ,2/1/26,Winco_MoVal
+1478.jpg,baking_powders,KOSHER SALT,$1.18 ,$0.07 ,2/1/26,Winco_MoVal
+1479.jpg,baking_powders,MAC & CHEESE POWDER,$4.88 ,$0.31 ,2/1/26,Winco_MoVal
+1484.jpg,baking_powders,TOASTED BUCKWHEAT,$3.08 ,$0.19 ,1/30/26,Winco_MoVal
+1486.jpg,baking_powders,WHOLE OATS GROATS (GRAIN MILLER),$0.88 ,$0.06 ,1/30/26,Winco_MoVal
+1515.jpg,baking_powders,BUCKWHEAT FLOUR GLUTEN FREE,$3.48 ,$0.22 ,1/30/26,Winco_MoVal
+1568.jpg,baking_powders,DARK SEMI SWEET BAKE CHIP (50% COCOA),$7.38 ,$0.46 ,2/1/26,Winco_MoVal
+1594.jpg,baking_powders,VANILLA MELTY,$5.68 ,$0.36 ,2/1/26,Winco_MoVal
+1599.jpg,baking_powders,MILK CHOCOLATE FLAVORED MELT,$6.18 ,$0.39 ,2/1/26,Winco_MoVal
+1600.jpg,baking_powders,INSTANT POTATOES,$2.47 ,$0.15 ,2/1/26,Winco_MoVal
+1693.jpg,baking_powders,PARMESAN CHEESE (GRATED),$5.43 ,$0.34 ,2/1/26,Winco_MoVal
+1707.jpg,baking_powders,DARK BROWN SUGAR (WHITE SATIN),$1.08 ,$0.07 ,2/1/26,Winco_MoVal
+1711.jpg,baking_powders,SEA SALT (CARGILL),$0.48 ,$0.03 ,2/1/26,Winco_MoVal
+1716.jpg,baking_powders,GRANULATED SUGAR,$0.70 ,$0.04 ,2/1/26,Winco_MoVal
+1720.jpg,baking_powders,POWDERED SUGAR,$1.08 ,$0.07 ,2/1/26,Winco_MoVal
+1721.jpg,baking_powders,BROWN SUGAR,$0.92 ,$0.06 ,2/1/26,Winco_MoVal
+1724.jpg,baking_powders,CORN GRITS POLENTA,$1.46 ,$0.09 ,1/30/26,Winco_MoVal
+1726.jpg,baking_powders,BULGUR WHEAT,$1.58 ,$0.10 ,1/30/26,Winco_MoVal
+1727.jpg,baking_powders,HIGH GLUTEN FLOUR (BLEACHED),$0.68 ,$0.04 ,2/1/26,Winco_MoVal
+1729.jpg,baking_powders,ORGANIC CANE SUGAR,$1.68 ,$0.11 ,2/1/26,Winco_MoVal
+1730.jpg,baking_powders,CORN MEAL,$0.86 ,$0.05 ,2/1/26,Winco_MoVal
+1731.jpg,baking_powders,WHOLE WHEAT PASTRY FLOUR (BOBS RED MILL),$1.48 ,$0.09 ,2/1/26,Winco_MoVal
+1732.jpg,baking_powders,WHOLE WHEAT FLOUR,$0.48 ,$0.03 ,2/1/26,Winco_MoVal
+1734.jpg,baking_powders,STANDARD BAKERS FLOUR (BLEACHED),$0.58 ,$0.04 ,2/1/26,Winco_MoVal
+1736.jpg,baking_powders,WHEAT NUGGETS,$0.58 ,$0.04 ,1/30/26,Winco_MoVal
+1737.jpg,baking_powders,STANDARD BAKERS FLOUR (UNBLEACHED),$0.58 ,$0.04 ,2/1/26,Winco_MoVal
+1739.jpg,baking_powders,CAKE FLOUR (BLEACHED),$0.58 ,$0.04 ,2/1/26,Winco_MoVal
+1740.jpg,baking_powders,WHEAT BERRY KERNELS RED,$0.88 ,$0.06 ,1/30/26,Winco_MoVal
+1741.jpg,baking_powders,BOBS RED MILL SEMOLINA FLOUR,$2.18 ,$0.14 ,2/1/26,Winco_MoVal
+1746.jpg,baking_powders,BUTTERMILK PANCAKE MIX,$1.10 ,$0.07 ,1/30/26,Winco_MoVal
+1747.jpg,baking_powders,10-GRAIN PANCAKE MIX (BOBS RED MILL),$2.58 ,$0.16 ,1/30/26,Winco_MoVal
+1748.jpg,baking_powders,WHOLE WHEAT BREAD FLOUR (BOBS RED MILL),$1.17 ,$0.07 ,1/30/26,Winco_MoVal
+1749.jpg,baking_powders,CHICKPEA FLOUR,$1.98 ,$0.12 ,1/30/26,Winco_MoVal
+1755.jpg,baking_powders,PARMESAN ROMANO CHEESE (GRATED),$5.43 ,$0.34 ,2/1/26,Winco_MoVal
+1765.jpg,baking_powders,BLUEBERRY MUFFIN MIX,$1.78 ,$0.11 ,1/30/26,Winco_MoVal
+1766.jpg,baking_powders,PROTEIN PANCAKE MIX (HAPPY DAY),$3.38 ,$0.21 ,1/30/26,Winco_MoVal
+1769.jpg,baking_powders,BUTTERMILK PISCUIT MIX,$1.25 ,$0.08 ,1/30/26,Winco_MoVal
+1770.jpg,baking_powders,NUTRITIONAL YEAST,$9.98 ,$0.62 ,1/30/26,Winco_MoVal
+1773.jpg,baking_powders,UNSWEETENED COCONUT,$3.38 ,$0.21 ,2/1/26,Winco_MoVal
+1774.jpg,baking_powders,SWEET FLAKE COCONUT,$3.01 ,$0.19 ,2/1/26,Winco_MoVal
+1778.jpg,baking_powders,CORN MUFFIN MIX,$1.20 ,$0.08 ,1/30/26,Winco_MoVal
+1779.jpg,baking_powders,PIZZA CRUST MIX,$1.48 ,$0.09 ,1/30/26,Winco_MoVal
+1780.jpg,baking_powders,CORN STARCH,$1.58 ,$0.10 ,1/30/26,Winco_MoVal
+1781.jpg,baking_powders,BAKING SODA,$0.80 ,$0.05 ,1/30/26,Winco_MoVal
+1783.jpg,baking_powders,BAKING POWDER,$1.88 ,$0.12 ,1/30/26,Winco_MoVal
+1789.jpg,baking_powders,OAT FLOUR,$0.88 ,$0.06 ,1/30/26,Winco_MoVal
+1801.jpg,baking_powders,BROWNIE MIX,$1.88 ,$0.12 ,1/30/26,Winco_MoVal
+1807.jpg,baking_powders,HUMMUS MIX,$8.38 ,$0.52 ,2/1/26,Winco_MoVal
+1814.jpg,baking_powders,BUTTERSCOTCH CHIPS (GUITTARD),$7.48 ,$0.47 ,2/1/26,Winco_MoVal
+1815.jpg,baking_powders,REESES PEANUT BUTTER CHIP (HERSHEY),$5.68 ,$0.36 ,2/1/26,Winco_MoVal
+1820.jpg,baking_powders,SEMI SWEET MINI CHIPS (B CALLEBAUT),$7.08 ,$0.44 ,2/1/26,Winco_MoVal
+1821.jpg,baking_powders,SEMI SWEET CHOCOLATE CHIPS (B CALLEBAUT),$7.19 ,$0.45 ,2/1/26,Winco_MoVal
+1824.jpg,baking_powders,MILK CHOCOLATE CHIPS (B CALLEBAUT),$7.08 ,$0.44 ,2/1/26,Winco_MoVal
+1825.jpg,baking_powders,VANILLA BAKING CHIPS (GUITTARD),$7.68 ,$0.48 ,2/1/26,Winco_MoVal
+1829.jpg,baking_powders,DUTCH COCOA POWDER,$7.98 ,$0.50 ,2/1/26,Winco_MoVal
+1846.jpg,baking_powders,CHICKEN BREADING MIX,$1.48 ,$0.09 ,2/1/26,Winco_MoVal
+1885.jpg,baking_powders,COFFEE CREAMER,$2.68 ,$0.17 ,1/30/26,Winco_MoVal
+1887.jpg,baking_powders,TURBINADO SUGAR,$1.38 ,$0.09 ,2/1/26,Winco_MoVal
+1917.jpg,baking_powders,INSTANT NON FAT MILK,$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+1921.jpg,baking_powders,BREAD CRUMBS,$1.78 ,$0.11 ,1/30/26,Winco_MoVal
+1931.jpg,baking_powders,WHEAT GERM,$1.28 ,$0.08 ,1/30/26,Winco_MoVal
+1932.jpg,baking_powders,WHEAT BRAN,$0.68 ,$0.04 ,1/30/26,Winco_MoVal
+1959.jpg,baking_powders,BOBS RED MILL BRWN RICE FLR,$2.28 ,$0.14 ,1/30/26,Winco_MoVal
+2048.jpg,baking_powders,FALAFEL MIX,$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+2056.jpg,baking_powders,IODIZED SALT,$0.48 ,$0.03 ,2/1/26,Winco_MoVal
+2144.jpg,baking_powders,GOLDEN FLAXSEED,$2.18 ,$0.14 ,1/30/26,Winco_MoVal
+2174.jpg,baking_powders,MONKFRUIT SWEETENER (LAKANTO),$5.08 ,$0.32 ,2/1/26,Winco_MoVal
+2177.jpg,baking_powders,BAKING FLOUR GF,$2.58 ,$0.16 ,1/30/26,Winco_MoVal
+2180.jpg,baking_powders,CHICKEN BOUILLON,$3.78 ,$0.24 ,2/1/26,Winco_MoVal
+2403.jpg,baking_powders,DARK RYE FLOUR (ORGANIC),$1.28 ,$0.08 ,2/1/26,Winco_MoVal
+2407.jpg,baking_powders,ORGANIC COCONUT SUGAR,$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+2408.jpg,baking_powders,COCONUT FLOUR ORGANIC,$2.18 ,$0.14 ,1/30/26,Winco_MoVal
+2455.jpg,baking_powders,SEMI SWEET CHOCOLATE (B CALLEBAUT),$7.88 ,$0.49 ,2/1/26,Winco_MoVal
+2456.jpg,baking_powders,MILK CHOCOLATE (B CALLEBAUT),$8.18 ,$0.51 ,2/1/26,Winco_MoVal
+2571.jpg,baking_powders,WHEAT BERRY KERNEL WHITE,$0.98 ,$0.06 ,1/30/26,Winco_MoVal
+2613.jpg,baking_powders,PBFIT PEANUT BUTTER POWDER (BETTER BODY),$6.08 ,$0.38 ,1/30/26,Winco_MoVal
+2965.jpg,baking_powders,BITTERSWEET CHOCOLATE (64% COCOA),$11.88 ,$0.74 ,2/1/26,Winco_MoVal
+5574.jpg,baking_powders,RAINBOW TOPPERS (GEL SPICE),$3.18 ,$0.20 ,2/1/26,Winco_MoVal
+5575.jpg,baking_powders,BROWN GRAVY MIX (GEL SPICE),$2.68 ,$0.17 ,2/1/26,Winco_MoVal
+5578.jpg,baking_powders,CHICKEN GRAVY (GEL SPICE),$2.48 ,$0.16 ,2/1/26,Winco_MoVal
+5645.jpg,baking_powders,PINK HIMALAYAN SALT COARSE,$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+5744.jpg,baking_powders,PINK HIMALAYAN SALT FINE,$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+5745.jpg,baking_powders,HEMP HEARTS,$7.18 ,$0.45 ,1/30/26,Winco_MoVal
+1295.jpg,beans,MUNG BEANS,$2.48 ,$0.16 ,2/1/26,Winco_MoVal
+1340.jpg,beans,CHILI BEAN MIX,$1.78 ,$0.11 ,2/1/26,Winco_MoVal
+1349.jpg,beans,WHITE HOMINY POSOLE,$1.08 ,$0.07 ,2/1/26,Winco_MoVal
+1397.jpg,beans,RED LENTILS,$1.58 ,$0.10 ,2/1/26,Winco_MoVal
+1403.jpg,beans,TVP (BOBS RED MILL),$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+1467.jpg,beans,FRENCH GREEN LENTILS,$2.38 ,$0.15 ,2/1/26,Winco_MoVal
+1471.jpg,beans,DUROS,$2.18 ,$0.14 ,2/1/26,Winco_MoVal
+1510.jpg,beans,SOY BEANS,$1.48 ,$0.09 ,2/1/26,Winco_MoVal
+1528.jpg,beans,ANCIENT GRAIN BLEND (INHARVEST),$3.18 ,$0.20 ,2/1/26,Winco_MoVal
+1616.jpg,beans,MAYO COBA BEANS,$1.41 ,$0.09 ,2/1/26,Winco_MoVal
+1632.jpg,beans,LARGE LIMA BEANS,$2.28 ,$0.14 ,2/1/26,Winco_MoVal
+1634.jpg,beans,GREAT NORTHERN BEANS,$1.38 ,$0.09 ,2/1/26,Winco_MoVal
+1635.jpg,beans,SMALL RED BEANS,$1.38 ,$0.09 ,2/1/26,Winco_MoVal
+1636.jpg,beans,PINTO BEANS,$0.89 ,$0.06 ,2/1/26,Winco_MoVal
+1637.jpg,beans,RED KIDNEY BEANS,$1.48 ,$0.09 ,2/1/26,Winco_MoVal
+1638.jpg,beans,GARBANZO BEAN (CHICKPEAS),$1.18 ,$0.07 ,2/1/26,Winco_MoVal
+1639.jpg,beans,SPLLIT YELLOW PEAS,$0.98 ,$0.06 ,2/1/26,Winco_MoVal
+1640.jpg,beans,SPLIT GREEN PEAS,$0.98 ,$0.06 ,2/1/26,Winco_MoVal
+1641.jpg,beans,LENTILS,$1.18 ,$0.07 ,2/1/26,Winco_MoVal
+1644.jpg,beans,NAVY BEANS,$1.18 ,$0.07 ,2/1/26,Winco_MoVal
+1645.jpg,beans,BEANLAND SOUP MIX,$1.28 ,$0.08 ,2/1/26,Winco_MoVal
+1646.jpg,beans,BLACK TURTLE BEANS,$1.08 ,$0.07 ,2/1/26,Winco_MoVal
+1647.jpg,beans,BLACK EYED BEANS,$1.88 ,$0.12 ,2/1/26,Winco_MoVal
+2166.jpg,beans,13 BEAN SOUP,$1.68 ,$0.11 ,2/1/26,Winco_MoVal
+1290.jpg,candy,NERDS RAINBOW GUMMY CLUSTERS,$6.28 ,$0.39 ,2/1/26,Winco_MoVal
+1305.jpg,candy,TOOTSIE ROLL MIDGEES,$3.98 ,$0.25 ,2/1/26,Winco_MoVal
+1321.jpg,candy,STARBURST,$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+1328.jpg,candy,MIKE AND IKES (THE ORIGINAL),$3.08 ,$0.19 ,2/1/26,Winco_MoVal
+1347.jpg,candy,CINNAMON BEARS (SWEET'S),$2.88 ,$0.18 ,2/1/26,Winco_MoVal
+1376.jpg,candy,MIKE AND IKES MEGA SOUR MIX,$3.08 ,$0.19 ,2/1/26,Winco_MoVal
+1436.jpg,candy,SKITTLES ORIGINAL,$4.88 ,$0.31 ,2/1/26,Winco_MoVal
+1475.jpg,candy,CHOCOLATE ROCKS,$6.28 ,$0.39 ,2/1/26,Winco_MoVal
+1547_10.jpg,candy,SIZZLIN CINNAMON JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547_11.jpg,candy,TUTTI FRUTTI JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547_2.jpg,candy,LICORICE JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547_3.jpg,candy,TROPICAL MIX JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547_4.jpg,candy,BUTTER POPCORN JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547_5.jpg,candy,KIDS MIX JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547_6.jpg,candy,ASSORTED SOUR JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547_7.jpg,candy,FRUIT BOWL JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547_8.jpg,candy,COTTON CANDY JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547_9.jpg,candy,JUICY PEAR JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1547.jpg,candy,49 FLAVOR JELLY BELLY,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1552.jpg,candy,TAFFY ASSORTED (SWEET'S),$3.48 ,$0.22 ,2/1/26,Winco_MoVal
+1596.jpg,candy,LICORICE ALL SORTS,$3.58 ,$0.22 ,2/1/26,Winco_MoVal
+1611.jpg,candy,RED VINE MINI,$3.28 ,$0.21 ,2/1/26,Winco_MoVal
+1664.jpg,candy,SUNBURSTS,$6.28 ,$0.39 ,2/1/26,Winco_MoVal
+1713.jpg,candy,FRUIT SNACKS,$3.58 ,$0.22 ,2/1/26,Winco_MoVal
+1722.jpg,candy,FRUIT GEMS SUNKIST,$5.38 ,$0.34 ,2/1/26,Winco_MoVal
+1878.jpg,candy,TAJIN PEACH RINGS,$5.38 ,$0.34 ,2/1/26,Winco_MoVal
+1895.jpg,candy,PEACH RINGS,$2.78 ,$0.17 ,2/1/26,Winco_MoVal
+1902.jpg,candy,WATERMELON RINGS,$2.78 ,$0.17 ,2/1/26,Winco_MoVal
+1928.jpg,candy,WATERMELON TAJIN RINGS,$5.38 ,$0.34 ,2/1/26,Winco_MoVal
+2041.jpg,candy,REESES PIECES,$5.48 ,$0.34 ,2/1/26,Winco_MoVal
+2050.jpg,candy,MINTS PASTEL (SUNRISE),$3.18 ,$0.20 ,2/1/26,Winco_MoVal
+2051.jpg,candy,SUGAR FREE GUMMI BEARS,$4.68 ,$0.29 ,2/1/26,Winco_MoVal
+2062.jpg,candy,SUGAR FREE GUMMI WORMS,$5.88 ,$0.37 ,2/1/26,Winco_MoVal
+2070.jpg,candy,CHOCOLATE M&M'S,$5.68 ,$0.36 ,2/1/26,Winco_MoVal
+2071.jpg,candy,ORANGE SLICES (SUNRISE),$1.78 ,$0.11 ,2/1/26,Winco_MoVal
+2084.jpg,candy,HOT TAMALES (THE ORIGINAL),$3.08 ,$0.19 ,2/1/26,Winco_MoVal
+2097.jpg,candy,GOOD N' PLENTY (HERSHEY),$3.24 ,$0.20 ,2/1/26,Winco_MoVal
+2099.jpg,candy,FRENCH BURNT PEANUTS (SCONZA),$3.48 ,$0.22 ,2/1/26,Winco_MoVal
+2101.jpg,candy,LEMON DROPS,$2.48 ,$0.16 ,2/1/26,Winco_MoVal
+2102.jpg,candy,BLACK LICORICE PIECES,$4.98 ,$0.31 ,2/1/26,Winco_MoVal
+2108.jpg,candy,LICORICE PIECES STRAWBERRY,$4.98 ,$0.31 ,2/1/26,Winco_MoVal
+2111.jpg,candy,SPICE DROPS,$1.78 ,$0.11 ,2/1/26,Winco_MoVal
+2124.jpg,candy,PEANUT M&M'S,$5.68 ,$0.36 ,2/1/26,Winco_MoVal
+2190.jpg,candy,PEANUT BUTTER M&M'S,$5.68 ,$0.36 ,2/1/26,Winco_MoVal
+2211.jpg,candy,FRUIT SOURS (SWEET'S),$3.38 ,$0.21 ,2/1/26,Winco_MoVal
+2215.jpg,candy,SOUR PATCH KIDS,$5.38 ,$0.34 ,2/1/26,Winco_MoVal
+2219.jpg,candy,STRAWBERRY SOUR BELTS,$7.28 ,$0.46 ,2/1/26,Winco_MoVal
+2232.jpg,candy,FRUIT SOURS CHERRY,$3.38 ,$0.21 ,2/1/26,Winco_MoVal
+2237.jpg,candy,GUMMI BEARS,$2.78 ,$0.17 ,2/1/26,Winco_MoVal
+2238.jpg,candy,GUMMI WORMS,$2.78 ,$0.17 ,2/1/26,Winco_MoVal
+2241.jpg,candy,NEON GUMMI WORMS,$2.81 ,$0.18 ,2/1/26,Winco_MoVal
+2249.jpg,candy,GUMMI SHARKS,$2.58 ,$0.16 ,2/1/26,Winco_MoVal
+2272.jpg,candy,SOUR PATCH WATERMELON,$5.38 ,$0.34 ,2/1/26,Winco_MoVal
+2278.jpg,candy,WERTHERS ORIGINAL (STORK USA),$6.58 ,$0.41 ,2/1/26,Winco_MoVal
+2279.jpg,candy,RIESEN (STORK USA),$6.78 ,$0.42 ,2/1/26,Winco_MoVal
+2339.jpg,candy,WERTHERS SOFT CARAMELS,$8.38 ,$0.52 ,2/1/26,Winco_MoVal
+2355.jpg,candy,M&M MILK CHOCOLATE BAKING CANDY,$6.38 ,$0.40 ,2/1/26,Winco_MoVal
+2386.jpg,candy,SWEDISH FISH,$5.38 ,$0.34 ,2/1/26,Winco_MoVal
+2394.jpg,candy,BERRY GUMMY NUGGETS,$5.48 ,$0.34 ,2/1/26,Winco_MoVal
+2551.jpg,candy,CARAMEL APPLE POPS (TOOTSIE),$5.08 ,$0.32 ,2/1/26,Winco_MoVal
+2620.jpg,candy,GUMMI SPICY MANGO (VIDAL),$4.38 ,$0.27 ,2/1/26,Winco_MoVal
+2722.jpg,candy,SOUR BELTS QUATRO,$7.28 ,$0.46 ,2/1/26,Winco_MoVal
+5622.jpg,candy,CANDY BLOX (CONCORD),$6.78 ,$0.42 ,2/1/26,Winco_MoVal
+5629.jpg,candy,GUMBALLS,$3.68 ,$0.23 ,2/1/26,Winco_MoVal
+5647.jpg,candy,BANANARAMA,$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+5651.jpg,candy,GUMBALLS SOUR,$3.68 ,$0.23 ,2/1/26,Winco_MoVal
+5693.jpg,candy,STARBURST FAV REDS,$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+5754.jpg,candy,BOSTON BAKED BEANS (SCONZA),$3.38 ,$0.21 ,2/1/26,Winco_MoVal
+0000.jpg,chocolate_treat,TRUFFLES WHITE CHOCOLATE (LINDT),$18.99 ,$1.19 ,2/1/26,Winco_MoVal
+0001.jpg,chocolate_treat,TRUFFLES DARK CHOCOLATE 60% (LINDT),$18.99 ,$1.19 ,2/1/26,Winco_MoVal
+0002.jpg,chocolate_treat,TRUFFLES MILK CHOCOLATE (LINDT),$18.99 ,$1.19 ,2/1/26,Winco_MoVal
+1279.jpg,chocolate_treat,ALMOND CLUSTERS,$9.58 ,$0.60 ,2/1/26,Winco_MoVal
+1281.jpg,chocolate_treat,DARK CHOCLATE ALMOND CLUSTER,$9.58 ,$0.60 ,2/1/26,Winco_MoVal
+1282_2.jpg,chocolate_treat,CHOCOLATE BUTTONS BLUE,$7.48 ,$0.47 ,2/1/26,Winco_MoVal
+1282_3.jpg,chocolate_treat,CHOCOLATE BUTTONS PINK,$7.48 ,$0.47 ,2/1/26,Winco_MoVal
+1282_4.jpg,chocolate_treat,CHOCOLATE BUTTONS SPRING MIX,$7.48 ,$0.47 ,2/1/26,Winco_MoVal
+1282.jpg,chocolate_treat,CHOCOLATE BUTTONS,$7.48 ,$0.47 ,2/1/26,Winco_MoVal
+1287.jpg,chocolate_treat,SIXLETS ORIGINAL,$4.38 ,$0.27 ,2/1/26,Winco_MoVal
+1323.jpg,chocolate_treat,CHOCOLATE ALMONDS,$6.48 ,$0.41 ,2/1/26,Winco_MoVal
+1334.jpg,chocolate_treat,DARK CHOCOLATE RAISINS,$9.58 ,$0.60 ,2/1/26,Winco_MoVal
+1335.jpg,chocolate_treat,DARK CHOCOLATE CRANBERRIES,$10.18 ,$0.64 ,2/1/26,Winco_MoVal
+1336.jpg,chocolate_treat,DARK CHOCOLATE STRAWBERRIES,$13.28 ,$0.83 ,2/1/26,Winco_MoVal
+1343.jpg,chocolate_treat,NUTS & CHEWS MIX,$7.78 ,$0.49 ,2/1/26,Winco_MoVal
+1369.jpg,chocolate_treat,CHOCOLATE CINNAMON BEAR (SWEET'S),$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+1428.jpg,chocolate_treat,DARK CHOCOLATE COFFEE BEANS,$12.68 ,$0.79 ,2/1/26,Winco_MoVal
+1461.jpg,chocolate_treat,CHOCOLATEY PRETZELS,$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+1469.jpg,chocolate_treat,NO ADDED SUGAR PRETZEL,$15.08 ,$0.94 ,2/1/26,Winco_MoVal
+1498.jpg,chocolate_treat,TRI COLOR ESPRESSO BEAN,$10.18 ,$0.64 ,2/1/26,Winco_MoVal
+1499.jpg,chocolate_treat,BITE SIZE SNICKERS (MARS),$6.88 ,$0.43 ,2/1/26,Winco_MoVal
+1540.jpg,chocolate_treat,NO SUGAR ADDED DARK CHOCOLATE PEANUT,$12.38 ,$0.77 ,2/1/26,Winco_MoVal
+1546.jpg,chocolate_treat,NO SUGAR ADDED CHOCOLATE RAISINS,$12.48 ,$0.78 ,2/1/26,Winco_MoVal
+1566.jpg,chocolate_treat,HERSHEY KISSES,$8.98 ,$0.56 ,2/1/26,Winco_MoVal
+1567.jpg,chocolate_treat,HERSHEY MINIATURES,$7.48 ,$0.47 ,2/1/26,Winco_MoVal
+1586.jpg,chocolate_treat,NO SUGAR ADDED DARK CHOCOLATE RAISINS,$12.78 ,$0.80 ,2/1/26,Winco_MoVal
+1715.jpg,chocolate_treat,MINI REESE'S CUPS,$7.48 ,$0.47 ,2/1/26,Winco_MoVal
+1986.jpg,chocolate_treat,SUGAR FREE DARK CHOCOLATE WAFER,$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+2008.jpg,chocolate_treat,CHOCOLATE RAISINS,$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2009.jpg,chocolate_treat,CHOCOLATE BANANA CHIPS,$6.78 ,$0.42 ,2/1/26,Winco_MoVal
+2014.jpg,chocolate_treat,DARK CHOCOLATE PISTACHIOS (SETTON),$14.18 ,$0.89 ,2/1/26,Winco_MoVal
+2046.jpg,chocolate_treat,CHOCOLATE GUMMY BEARS,$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2060.jpg,chocolate_treat,NO ADDED SUGAR PEANUT CLUSTER,$19.78 ,$1.24 ,2/1/26,Winco_MoVal
+2067.jpg,chocolate_treat,HERSHEY NUGGETS,$11.28 ,$0.71 ,2/1/26,Winco_MoVal
+2077.jpg,chocolate_treat,CHOCOLATE PEANUTS,$8.88 ,$0.56 ,2/1/26,Winco_MoVal
+2081.jpg,chocolate_treat,ANDES MINTS (CHARMS),$6.58 ,$0.41 ,2/1/26,Winco_MoVal
+2089.jpg,chocolate_treat,CHOCOLATE PEANUT CLUSTERS (SWEET'S),$6.48 ,$0.41 ,2/1/26,Winco_MoVal
+2106.jpg,chocolate_treat,CHOCOLATE MALT BALLS,$6.38 ,$0.40 ,2/1/26,Winco_MoVal
+2107.jpg,chocolate_treat,DARK CHOCOLATE PEANUT CLUSTER,$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2114.jpg,chocolate_treat,CHOCOLATE ORANGE STICKS (SWEET'S),$5.28 ,$0.33 ,2/1/26,Winco_MoVal
+2145.jpg,chocolate_treat,PEANUT BUTTER MINI CUPS (RM PALMER),$5.18 ,$0.32 ,2/1/26,Winco_MoVal
+2154.jpg,chocolate_treat,DARK CHOCOLATE ALMONDS (SCONZA),$8.78 ,$0.55 ,2/1/26,Winco_MoVal
+2229.jpg,chocolate_treat,REDUCED SUGAR CHOCOLATE MALTBALL,$13.88 ,$0.87 ,2/1/26,Winco_MoVal
+2236.jpg,chocolate_treat,GOLD COINS CHOCOLATE (RM PALMER),$11.08 ,$0.69 ,2/1/26,Winco_MoVal
+2245.jpg,chocolate_treat,MILK CHOCOLATE DUSTED ALMOND,$10.18 ,$0.64 ,2/1/26,Winco_MoVal
+2251.jpg,chocolate_treat,NO ADDED SUGAR ALMOND BUTTERCRUNCH,$17.48 ,$1.09 ,2/1/26,Winco_MoVal
+2253.jpg,chocolate_treat,NO ADDED SUGAR ALMOND CLUSTER,$20.58 ,$1.29 ,2/1/26,Winco_MoVal
+2257.jpg,chocolate_treat,NO ADDED SUGAR PEPPERMINT PATTY,$15.08 ,$0.94 ,2/1/26,Winco_MoVal
+2258.jpg,chocolate_treat,NO ADDED SUGAR CHOCOLATE VANILLA CARAMEL,$17.08 ,$1.07 ,2/1/26,Winco_MoVal
+2265.jpg,chocolate_treat,NO ADDED SUGAR MINT MELTAWAY,$19.58 ,$1.22 ,2/1/26,Winco_MoVal
+2267.jpg,chocolate_treat,SUGAR FREE CHOCOLATE ALMONDS,$14.18 ,$0.89 ,2/1/26,Winco_MoVal
+2268.jpg,chocolate_treat,NO SUGAR ADDED DARK CHOCOLATE ALMOND,$14.48 ,$0.91 ,2/1/26,Winco_MoVal
+2319.jpg,chocolate_treat,TRUFFLE DARK CHOCOLATE,$7.78 ,$0.49 ,2/1/26,Winco_MoVal
+2382.jpg,chocolate_treat,CHOCOLATE MINT COOKIE BITES (SCONZA),$8.68 ,$0.54 ,2/1/26,Winco_MoVal
+2387.jpg,chocolate_treat,DARK COCOLATE MINT COOKIE (GKI),$10.18 ,$0.64 ,2/1/26,Winco_MoVal
+2572.jpg,chocolate_treat,SEA SALT CARAMEL SQUARES MILK CHOCOLATE (SANDERS),$10.58 ,$0.66 ,2/1/26,Winco_MoVal
+2573.jpg,chocolate_treat,SEA SALT CARAMEL SQUARES DARK CHOCOLATE (SANDERS),$10.58 ,$0.66 ,2/1/26,Winco_MoVal
+2583.jpg,chocolate_treat,MILK CHOCOLATE SEA SALT CARAMELS,$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2930.jpg,chocolate_treat,CHOCOLATE PECANS,$8.88 ,$0.56 ,2/1/26,Winco_MoVal
+2932.jpg,chocolate_treat,NO ADDED SUGAR CHOCOLATE PB CUPS,$17.38 ,$1.09 ,2/1/26,Winco_MoVal
+2933.jpg,chocolate_treat,NO ADDED SUGAR COCONUT CLUSTER,$17.88 ,$1.12 ,2/1/26,Winco_MoVal
+2966.jpg,chocolate_treat,CHOCOLATE PECAN CARAMEL PATTY,$9.78 ,$0.61 ,2/1/26,Winco_MoVal
+5583.jpg,chocolate_treat,DARK CHOCOLATE COCONUT MACAROON (SCONZA),$8.78 ,$0.55 ,2/1/26,Winco_MoVal
+5595.jpg,chocolate_treat,MILK CHOCOLATE PEANUTBUTTER CARAMEL,$7.58 ,$0.47 ,2/1/26,Winco_MoVal
+5627.jpg,chocolate_treat,TRUFFLES MILK CHOCOLATE,$7.48 ,$0.47 ,2/1/26,Winco_MoVal
+5643.jpg,chocolate_treat,CHOCOLATEY HEART PRETZEL,$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+5662.jpg,chocolate_treat,CHOCOLATE ENERGY NUGGET,$6.68 ,$0.42 ,2/1/26,Winco_MoVal
+5675.jpg,chocolate_treat,DARK CHOCOLATE CASHEWS,$10.98 ,$0.69 ,2/1/26,Winco_MoVal
+5676.jpg,chocolate_treat,MILK CHOCOLATE CASHEWS,$8.68 ,$0.54 ,2/1/26,Winco_MoVal
+5763.jpg,chocolate_treat,CHOCOLATE COVERED CHERRIES (MARICH),$11.38 ,$0.71 ,2/1/26,Winco_MoVal
+5765.jpg,chocolate_treat,CHOCOLATE SEA SALT POPCORN (MARICH),$12.18 ,$0.76 ,2/1/26,Winco_MoVal
+5767.jpg,chocolate_treat,CARAMEL DARK SEASALT (MARICH),$10.68 ,$0.67 ,2/1/26,Winco_MoVal
+1326.jpg,dried_fruit,COCONUT STRIPS,$5.48 ,$0.34 ,2/1/26,Winco_MoVal
+1327.jpg,dried_fruit,DATES CHOPPED/DICED (KARTAGO),$3.28 ,$0.21 ,2/1/26,Winco_MoVal
+1452.jpg,dried_fruit,DRIED PEACHES,$6.78 ,$0.42 ,2/1/26,Winco_MoVal
+1700.jpg,dried_fruit,CRYSTALIZED GINGER,$4.88 ,$0.31 ,2/1/26,Winco_MoVal
+1903.jpg,dried_fruit,RAISIN MEDLEY,$2.98 ,$0.19 ,2/1/26,Winco_MoVal
+1983.jpg,dried_fruit,DRIED BANANA CHIPS,$2.98 ,$0.19 ,2/1/26,Winco_MoVal
+2118.jpg,dried_fruit,DRIED CRAN CHERRIES,$4.68 ,$0.29 ,2/1/26,Winco_MoVal
+2146.jpg,dried_fruit,DELUXE RAISINS,$2.48 ,$0.16 ,2/1/26,Winco_MoVal
+2147.jpg,dried_fruit,GOLDEN RAISINS,$2.98 ,$0.19 ,2/1/26,Winco_MoVal
+2150.jpg,dried_fruit,DRIED APRICOTS,$7.28 ,$0.46 ,2/1/26,Winco_MoVal
+2151.jpg,dried_fruit,DRIED CRANBERRIES,$3.58 ,$0.22 ,2/1/26,Winco_MoVal
+2153.jpg,dried_fruit,DRIED APPLE RINGS,$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+2155.jpg,dried_fruit,DRIED PINEAPPLE,$3.98 ,$0.25 ,2/1/26,Winco_MoVal
+2158.jpg,dried_fruit,DRIED PAPAYA SPEARS,$3.58 ,$0.22 ,2/1/26,Winco_MoVal
+2163.jpg,dried_fruit,DRIED CHERRIES,$11.48 ,$0.72 ,2/1/26,Winco_MoVal
+2165.jpg,dried_fruit,DRIED MANGO SLICES,$3.98 ,$0.25 ,2/1/26,Winco_MoVal
+2171.jpg,dried_fruit,DRIED BLUEBERRIES (MEDURI FARMS),$7.68 ,$0.48 ,2/1/26,Winco_MoVal
+2259.jpg,dried_fruit,DRIED PRUNES PITTED,$4.58 ,$0.29 ,2/1/26,Winco_MoVal
+2307.jpg,dried_fruit,BLACK MISSION FIGS (VALLEY FIG),$5.08 ,$0.32 ,2/1/26,Winco_MoVal
+2309.jpg,dried_fruit,GOLDEN FIGS (VALLEY FIG),$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2317.jpg,dried_fruit,FRUIT MIX (DURHAMS),$5.68 ,$0.36 ,2/1/26,Winco_MoVal
+2468.jpg,dried_fruit,MEDJOOL DATE PITTED,$7.28 ,$0.46 ,2/1/26,Winco_MoVal
+2633.jpg,dried_fruit,PREMIUM MANGO SLICES DHYD (SUNRISE),$9.18 ,$0.57 ,2/1/26,Winco_MoVal
+5728.jpg,dried_fruit,GOJI BERRIES,$11.58 ,$0.72 ,2/1/26,Winco_MoVal
+1283.jpg,grains_pasta,QUINOA GRAIN,$2.88 ,$0.18 ,2/1/26,Winco_MoVal
+1284.jpg,grains_pasta,QUINOA WHITE ORGANIC,$3.38 ,$0.21 ,2/1/26,Winco_MoVal
+1285.jpg,grains_pasta,SONA MASOORI RICE (ROYAL),$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+1332.jpg,grains_pasta,CHEESE TORTELLINI (NAPOLEON),$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+1391.jpg,grains_pasta,BROWN RICE MACARONI,$4.28 ,$0.27 ,2/1/26,Winco_MoVal
+1434.jpg,grains_pasta,ORZO PASTA,$1.38 ,$0.09 ,2/1/26,Winco_MoVal
+1482.jpg,grains_pasta,RED QUINOA (ORGANIC),$3.08 ,$0.19 ,2/1/26,Winco_MoVal
+1564.jpg,grains_pasta,WHITE RICE ELBOW MACARONI,$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+1601.jpg,grains_pasta,GREEN LENTIL PENNE PASTA,$5.58 ,$0.35 ,2/1/26,Winco_MoVal
+1602.jpg,grains_pasta,CHICKPEA ELBOW PASTA,$5.78 ,$0.36 ,2/1/26,Winco_MoVal
+1603.jpg,grains_pasta,SHREDDED POTATOES,$3.28 ,$0.21 ,2/1/26,Winco_MoVal
+1604.jpg,grains_pasta,RAINBOW PASTA,$1.51 ,$0.09 ,2/1/26,Winco_MoVal
+1610.jpg,grains_pasta,FETTUCINI PASTA,$0.93 ,$0.06 ,2/1/26,Winco_MoVal
+1612.jpg,grains_pasta,LINGUINE PASTA,$0.93 ,$0.06 ,2/1/26,Winco_MoVal
+1613.jpg,grains_pasta,WHOLE WHEAT SPAGHETTI,$1.34 ,$0.08 ,2/1/26,Winco_MoVal
+1615.jpg,grains_pasta,SPAGHETTI,$0.93 ,$0.06 ,2/1/26,Winco_MoVal
+1617.jpg,grains_pasta,ELBOW MACARONI,$0.93 ,$0.06 ,2/1/26,Winco_MoVal
+1618.jpg,grains_pasta,EXTRA WIDE EGG NOODLES,$2.21 ,$0.14 ,2/1/26,Winco_MoVal
+1620.jpg,grains_pasta,ANGELHAIR PASTA,$0.93 ,$0.06 ,2/1/26,Winco_MoVal
+1621.jpg,grains_pasta,WHOLE WHEAT MACARONI,$1.28 ,$0.08 ,2/1/26,Winco_MoVal
+1623.jpg,grains_pasta,ROTINI PASTA,$0.93 ,$0.06 ,2/1/26,Winco_MoVal
+1627.jpg,grains_pasta,PENNE RIGATE PASTA,$1.38 ,$0.09 ,2/1/26,Winco_MoVal
+1628.jpg,grains_pasta,SALAD MACARONI,$0.93 ,$0.06 ,2/1/26,Winco_MoVal
+1629.jpg,grains_pasta,LARGE SHELL PASTA,$1.38 ,$0.09 ,2/1/26,Winco_MoVal
+1630.jpg,grains_pasta,SMALL SHELL PASTA,$0.93 ,$0.06 ,2/1/26,Winco_MoVal
+1631.jpg,grains_pasta,JASMINE RICE (GOLDEN STAR),$1.11 ,$0.07 ,2/1/26,Winco_MoVal
+1642.jpg,grains_pasta,PEARL BARLEY,$0.98 ,$0.06 ,2/1/26,Winco_MoVal
+1648.jpg,grains_pasta,ARBORIO RICE,$2.58 ,$0.16 ,2/1/26,Winco_MoVal
+1650.jpg,grains_pasta,ZITI RIGATE PASTA,$1.48 ,$0.09 ,2/1/26,Winco_MoVal
+1651.jpg,grains_pasta,LONG GRAIN WHITE RICE,$0.88 ,$0.06 ,2/1/26,Winco_MoVal
+1652.jpg,grains_pasta,RED AND WILD RICE,$2.98 ,$0.19 ,2/1/26,Winco_MoVal
+1653.jpg,grains_pasta,WILD RICE,$7.18 ,$0.45 ,2/1/26,Winco_MoVal
+1654.jpg,grains_pasta,SHORT GRAIN BROWN RICE,$1.18 ,$0.07 ,2/1/26,Winco_MoVal
+1655.jpg,grains_pasta,LONG GRAIN BROWN RICE,$0.88 ,$0.06 ,2/1/26,Winco_MoVal
+1656.jpg,grains_pasta,CONVERTED RICE,$0.98 ,$0.06 ,2/1/26,Winco_MoVal
+1657.jpg,grains_pasta,PEARLED RICE,$1.88 ,$0.12 ,2/1/26,Winco_MoVal
+1658.jpg,grains_pasta,BOWTIE PASTA,$1.38 ,$0.09 ,2/1/26,Winco_MoVal
+1683.jpg,grains_pasta,WHOLE WHEAT PENNE RIGATE,$1.38 ,$0.09 ,2/1/26,Winco_MoVal
+1718.jpg,grains_pasta,BROWN RICE JASMINE (GOLDEN STAR),$1.31 ,$0.08 ,2/1/26,Winco_MoVal
+1758.jpg,grains_pasta,JAPONICA BLACK RICE,$2.98 ,$0.19 ,2/1/26,Winco_MoVal
+1777.jpg,grains_pasta,INSTANT JASMINE RICE,$2.88 ,$0.18 ,2/1/26,Winco_MoVal
+1810.jpg,grains_pasta,INSTANT LONG GRAIN RICE,$1.88 ,$0.12 ,2/1/26,Winco_MoVal
+1850.jpg,grains_pasta,CALROSE RICE (SUSHI RICE),$0.72 ,$0.05 ,2/1/26,Winco_MoVal
+1860.jpg,grains_pasta,SEASONED CROUTONS (FRESH GOURMET),$3.58 ,$0.22 ,2/1/26,Winco_MoVal
+1861.jpg,grains_pasta,CHEESE GARLIC CROUTONS (FRESH GOURMET),$3.58 ,$0.22 ,2/1/26,Winco_MoVal
+1865.jpg,grains_pasta,WONTON STRIPS,$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+1868.jpg,grains_pasta,TRI COLOR TORTILLA,$5.08 ,$0.32 ,2/1/26,Winco_MoVal
+1875.jpg,grains_pasta,ORZO PASTA TRI COLOR,$3.18 ,$0.20 ,2/1/26,Winco_MoVal
+1883.jpg,grains_pasta,ITALIAN FARRO PEARLED,$3.78 ,$0.24 ,2/1/26,Winco_MoVal
+1942.jpg,grains_pasta,JUMBO ELBOW PASTA,$1.38 ,$0.09 ,2/1/26,Winco_MoVal
+1944.jpg,grains_pasta,COUS-COUS,$2.18 ,$0.14 ,2/1/26,Winco_MoVal
+1947.jpg,grains_pasta,TRICOLOR COUS-COUS,$2.68 ,$0.17 ,2/1/26,Winco_MoVal
+1963.jpg,grains_pasta,ISRAELI STYLE COUS-COUS (INHARVEST),$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+2204.jpg,grains_pasta,BASMATI RICE (ROYAL),$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+2239.jpg,grains_pasta,BROWN BASMATI RICE (ROYAL),$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+2313.jpg,grains_pasta,MACARONI CAVATAPPI,$0.93 ,$0.06 ,2/1/26,Winco_MoVal
+2316.jpg,grains_pasta,TRI COLOR QUINOA (ORGANIC),$2.98 ,$0.19 ,2/1/26,Winco_MoVal
+2336.jpg,grains_pasta,TRI-COLOR TORTELLINI,$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+2568.jpg,grains_pasta,BROWN RICE PENNE,$4.28 ,$0.27 ,2/1/26,Winco_MoVal
+2614.jpg,grains_pasta,BROWN RICE ROTINI,$4.28 ,$0.27 ,2/1/26,Winco_MoVal
+1350.jpg,granola_cereal,DARK CHOC RED BERRY ORGANIC,$6.48 ,$0.41 ,1/30/26,Winco_MoVal
+1402.jpg,granola_cereal,SCOTTISH OATMEAL,$0.88 ,$0.06 ,1/30/26,Winco_MoVal
+1408.jpg,granola_cereal,5 GRAIN CEREAL,$1.18 ,$0.07 ,1/30/26,Winco_MoVal
+1415.jpg,granola_cereal,STEEL CUT OATS,$0.88 ,$0.06 ,1/30/26,Winco_MoVal
+1458.jpg,granola_cereal,SUGAR FROSTED FLAKES,$2.78 ,$0.17 ,1/30/26,Winco_MoVal
+1472.jpg,granola_cereal,FRUIT WHIRLS CEREAL,$2.98 ,$0.19 ,1/30/26,Winco_MoVal
+1738.jpg,granola_cereal,ORGANIC REG OATS,$1.48 ,$0.09 ,1/30/26,Winco_MoVal
+1806.jpg,granola_cereal,ORGANIC PB PANDA PUFFS,$5.78 ,$0.36 ,1/30/26,Winco_MoVal
+1834.jpg,granola_cereal,ORGANIC HERITAGE FLKS,$4.98 ,$0.31 ,1/30/26,Winco_MoVal
+1836.jpg,granola_cereal,ORGANIC HONEY CORN FLAKES,$4.58 ,$0.29 ,1/30/26,Winco_MoVal
+1837.jpg,granola_cereal,PUMPKIN FLAX GRANOLA,$2.48 ,$0.16 ,1/30/26,Winco_MoVal
+1853.jpg,granola_cereal,BLU/RSPBERRY GRANOLA,$4.58 ,$0.29 ,1/30/26,Winco_MoVal
+1905.jpg,granola_cereal,OAT BRAN,$1.68 ,$0.11 ,1/30/26,Winco_MoVal
+1907.jpg,granola_cereal,ALMOND/RAISIN GRANOLA,$2.48 ,$0.16 ,1/30/26,Winco_MoVal
+1910.jpg,granola_cereal,FRNCH VANILLA ALMOND GRANOLA,$2.68 ,$0.17 ,1/30/26,Winco_MoVal
+1911.jpg,granola_cereal,MAPLE NUT GRANOLA,$1.98 ,$0.12 ,1/30/26,Winco_MoVal
+1912.jpg,granola_cereal,CRANBERRY ALMOND GRANOLA,$2.48 ,$0.16 ,1/30/26,Winco_MoVal
+1913.jpg,granola_cereal,CINNAMON RAISIN GRANOLA,$2.48 ,$0.16 ,1/30/26,Winco_MoVal
+1918.jpg,granola_cereal,PEANUT BUTTER GRANOLA,$4.68 ,$0.29 ,1/30/26,Winco_MoVal
+1922.jpg,granola_cereal,DBL CHOCOLATE GRANOLA,$4.58 ,$0.29 ,1/30/26,Winco_MoVal
+1924.jpg,granola_cereal,CRISP RICE CEREAL,$2.50 ,$0.16 ,1/30/26,Winco_MoVal
+1926.jpg,granola_cereal,TOASTED OATS CEREAL,$2.98 ,$0.19 ,1/30/26,Winco_MoVal
+1930.jpg,granola_cereal,BOBS RED MILL FARINA CEREAL,$2.28 ,$0.14 ,1/30/26,Winco_MoVal
+1933.jpg,granola_cereal,OLD FASHIONED OATS,$0.88 ,$0.06 ,1/30/26,Winco_MoVal
+1934.jpg,granola_cereal,QUICK OATS,$0.88 ,$0.06 ,1/30/26,Winco_MoVal
+1935.jpg,granola_cereal,HONEY/ALMOND GRANOLA,$1.98 ,$0.12 ,1/30/26,Winco_MoVal
+1943.jpg,granola_cereal,10-GRAIN CEREAL,$2.18 ,$0.14 ,1/30/26,Winco_MoVal
+1945.jpg,granola_cereal,RAISIN BRAN,$2.88 ,$0.18 ,1/30/26,Winco_MoVal
+1946.jpg,granola_cereal,MUESLI CEREAL,$2.48 ,$0.16 ,1/30/26,Winco_MoVal
+1960.jpg,granola_cereal,SHREDDED FROSTED WHEAT,$2.48 ,$0.16 ,1/30/26,Winco_MoVal
+1970.jpg,granola_cereal,GRANOLA FRUIT AND NUT,$4.68 ,$0.29 ,1/30/26,Winco_MoVal
+1977.jpg,granola_cereal,GRANOLA COCONUT CHIA,$4.68 ,$0.29 ,1/30/26,Winco_MoVal
+2289.jpg,granola_cereal,CINN SQUARE CEREAL,$3.08 ,$0.19 ,1/30/26,Winco_MoVal
+2503.jpg,granola_cereal,OATS REGULAR GLUTEN FREE,$1.68 ,$0.11 ,1/30/26,Winco_MoVal
+2504.jpg,granola_cereal,OATS QUICK GLUTEN FREE,$1.68 ,$0.11 ,1/30/26,Winco_MoVal
+2724.jpg,granola_cereal,FRENCH VANILLA GRANOLA,$3.78 ,$0.24 ,1/30/26,Winco_MoVal
+2725.jpg,granola_cereal,BLUEBERRY FLAX GRANOLA,$3.78 ,$0.24 ,1/30/26,Winco_MoVal
+2726.jpg,granola_cereal,CHERRY VANILLA GRANOLA,$3.28 ,$0.21 ,1/30/26,Winco_MoVal
+2967.jpg,granola_cereal,HONEY NUT TOASTED OATS,$2.98 ,$0.19 ,1/30/26,Winco_MoVal
+5538.jpg,granola_cereal,GRANOLA CRANBERRY GF,$5.08 ,$0.32 ,1/30/26,Winco_MoVal
+1445.jpg,nuts_seeds,BUTTER TOFFEE COCONUT PEANUTS,$2.78 ,$0.17 ,2/1/26,Winco_MoVal
+1288.jpg,nuts_seeds,FANCY LARGE PECAN PIECES,$8.78 ,$0.55 ,2/1/26,Winco_MoVal
+1512.jpg,nuts_seeds,RAW PUMPKIN KERNELS,$5.88 ,$0.37 ,2/1/26,Winco_MoVal
+1514.jpg,nuts_seeds,ROASTED SALT PUMPKIN SEEDS,$6.28 ,$0.39 ,2/1/26,Winco_MoVal
+1522.jpg,nuts_seeds,LADY NAIL PUMPKIN SEEDS (ANCHOR),$4.88 ,$0.31 ,2/1/26,Winco_MoVal
+1688.jpg,nuts_seeds,SESAME SEEDS,$3.18 ,$0.20 ,2/1/26,Winco_MoVal
+1848.jpg,nuts_seeds,TAJIN PEANUTS (CENTURY),$3.88 ,$0.24 ,2/1/26,Winco_MoVal
+1980.jpg,nuts_seeds,BUTTER TOFFEE ALMONDS,$7.18 ,$0.45 ,2/1/26,Winco_MoVal
+1987.jpg,nuts_seeds,SALTED CASHEW PIECES,$5.68 ,$0.36 ,2/1/26,Winco_MoVal
+2004.jpg,nuts_seeds,FANCY JR PECAN HALVES,$12.58 ,$0.79 ,2/1/26,Winco_MoVal
+2012.jpg,nuts_seeds,SLICED ALMONDS,$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2013.jpg,nuts_seeds,HAZELNUTS,$7.38 ,$0.46 ,2/1/26,Winco_MoVal
+2015.jpg,nuts_seeds,SUNFLOWER KERNEL NO SALT,$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+2016.jpg,nuts_seeds,SLIVERED ALMONDS,$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2017.jpg,nuts_seeds,HONEY ROASTED MIXED NUT,$6.58 ,$0.41 ,2/1/26,Winco_MoVal
+2019.jpg,nuts_seeds,ROASTED NO SALT PEANUTS,$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+2021.jpg,nuts_seeds,SUNFLOWER KERNEL SALTED,$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+2022.jpg,nuts_seeds,ROASTED SALT PEANUTS (JIMBO JUMBOS),$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+2024.jpg,nuts_seeds,ROASTED SALTED SPANISH PEANUTS (JIMBO JUMBOS),$3.08 ,$0.19 ,2/1/26,Winco_MoVal
+2025.jpg,nuts_seeds,RAW SPANISH PEANUTS,$2.78 ,$0.17 ,2/1/26,Winco_MoVal
+2026.jpg,nuts_seeds,ROASTED SALTED CASHEWS,$8.19 ,$0.51 ,2/1/26,Winco_MoVal
+2027.jpg,nuts_seeds,SALTED ALMONDS (ALL NATURAL),$6.83 ,$0.43 ,2/1/26,Winco_MoVal
+2028.jpg,nuts_seeds,PISTACHIOS ROASTED SALTED,$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2030.jpg,nuts_seeds,NO SALT PEANUTS IN SHELL (HAMPTON FARM),$1.48 ,$0.09 ,2/1/26,Winco_MoVal
+2031.jpg,nuts_seeds,SALTED PEANUTS IN SHELL,$1.77 ,$0.11 ,2/1/26,Winco_MoVal
+2032.jpg,nuts_seeds,SUNFLOWER SEEDS SALTED,$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+2035.jpg,nuts_seeds,WALNUT HALVES & PIECES,$6.58 ,$0.41 ,2/1/26,Winco_MoVal
+2037.jpg,nuts_seeds,NATURAL ALMONDS,$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2038.jpg,nuts_seeds,RAW CASHEW PIECES,$4.88 ,$0.31 ,2/1/26,Winco_MoVal
+2043.jpg,nuts_seeds,GLAZED WALNUTS,$6.48 ,$0.41 ,2/1/26,Winco_MoVal
+2054.jpg,nuts_seeds,WALNUT CHOPPED,$6.58 ,$0.41 ,2/1/26,Winco_MoVal
+2061.jpg,nuts_seeds,DELUXE MIXED NUTS SALTED,$7.08 ,$0.44 ,2/1/26,Winco_MoVal
+2068.jpg,nuts_seeds,ROASTED SALTED PEPITAS,$5.48 ,$0.34 ,2/1/26,Winco_MoVal
+2072.jpg,nuts_seeds,SUNFLOWER KERNEL RAW (SUNOPTA),$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+2075.jpg,nuts_seeds,DELUXE MIXED NUTS UNSALTED,$7.08 ,$0.44 ,2/1/26,Winco_MoVal
+2078.jpg,nuts_seeds,SMOKED ALMONDS,$6.30 ,$0.39 ,2/1/26,Winco_MoVal
+2079.jpg,nuts_seeds,BRAZIL NUTS RAW,$19.28 ,$1.21 ,2/1/26,Winco_MoVal
+2094.jpg,nuts_seeds,PISTACHIOS UNSALTED (NICHOLS),$5.98 ,$0.37 ,2/1/26,Winco_MoVal
+2103.jpg,nuts_seeds,SUNFLOWER INSHELL RAW (SUNOPTA),$1.88 ,$0.12 ,2/1/26,Winco_MoVal
+2133.jpg,nuts_seeds,PISTACHIOS ROASTED SALTED KERNEL,$18.68 ,$1.17 ,2/1/26,Winco_MoVal
+2201.jpg,nuts_seeds,MACADAMIA NUTS (DRY ROASTED),$12.38 ,$0.77 ,2/1/26,Winco_MoVal
+2205.jpg,nuts_seeds,DRY ROASTED PEANUTS (JIMBO JUMBOS),$2.38 ,$0.15 ,2/1/26,Winco_MoVal
+2212.jpg,nuts_seeds,SALT/PEPPER CASHEWS,$7.38 ,$0.46 ,2/1/26,Winco_MoVal
+2243.jpg,nuts_seeds,50/50 MIXED NUT W/ PEANUTS,$5.08 ,$0.32 ,2/1/26,Winco_MoVal
+2254.jpg,nuts_seeds,CHOPPED ALMONDS (HUGHSON NUT),$6.38 ,$0.40 ,2/1/26,Winco_MoVal
+2318.jpg,nuts_seeds,TOFFEE PEANUTS,$3.38 ,$0.21 ,2/1/26,Winco_MoVal
+2321.jpg,nuts_seeds,CASHEWS HOT/SPICY,$7.78 ,$0.49 ,2/1/26,Winco_MoVal
+2323.jpg,nuts_seeds,CASHEWS ROASTED UNSALTED,$7.58 ,$0.47 ,2/1/26,Winco_MoVal
+2334.jpg,nuts_seeds,CHILI LIME PEPITAS,$7.78 ,$0.49 ,2/1/26,Winco_MoVal
+2345.jpg,nuts_seeds,PISTACHIOS SALT PEPPER (SETTON),$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+2346.jpg,nuts_seeds,PISTACHIOS CHILE LEMON (SETTON),$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+2379.jpg,nuts_seeds,ALMONDS NO SALT DRY ROASTED,$6.30 ,$0.39 ,2/1/26,Winco_MoVal
+2380.jpg,nuts_seeds,HONEYROASTED CHILI PEANUTS,$4.68 ,$0.29 ,2/1/26,Winco_MoVal
+2392.jpg,nuts_seeds,PECANS HONEY TOASTED (DURHAMS),$11.98 ,$0.75 ,2/1/26,Winco_MoVal
+2626.jpg,nuts_seeds,DURHAMS PECAN PRALINE,$11.98 ,$0.75 ,2/1/26,Winco_MoVal
+5660.jpg,nuts_seeds,HONEY ROASTED PEANUTS,$2.88 ,$0.18 ,2/1/26,Winco_MoVal
+1346.jpg,pet_animal,CHICKEN CRAN DOG BISCUITS,$2.08 ,$0.13 ,1/30/26,Winco_MoVal
+1464.jpg,pet_animal,SML NATURAL BONES/ROLLS,$6.38 ,$0.40 ,1/30/26,Winco_MoVal
+1468.jpg,pet_animal,BASTED RAWHIDE CHEWS,$6.78 ,$0.42 ,1/30/26,Winco_MoVal
+1487.jpg,pet_animal,CRITTER MIX,$1.04 ,$0.07 ,1/30/26,Winco_MoVal
+2189.jpg,pet_animal,RAWHIDE CHIPS,$4.98 ,$0.31 ,1/30/26,Winco_MoVal
+2191.jpg,pet_animal,BIRD SEED BLK OIL SUNFLOWER,$1.28 ,$0.08 ,1/30/26,Winco_MoVal
+2193.jpg,pet_animal,WILD BIRD FOOD,$0.78 ,$0.05 ,1/30/26,Winco_MoVal
+2195.jpg,pet_animal,DOG BIDCUITS MULTI FLVR SM,$1.38 ,$0.09 ,1/30/26,Winco_MoVal
+2198.jpg,pet_animal,BASTED DOG BISCUITS,$1.48 ,$0.09 ,1/30/26,Winco_MoVal
+2199.jpg,pet_animal,PIG EARS DOG TREAT,$20.68 ,$1.29 ,1/30/26,Winco_MoVal
+2213.jpg,pet_animal,DOG BIDSCUIT MULTI FLVR LG,$1.38 ,$0.09 ,1/30/26,Winco_MoVal
+2214.jpg,pet_animal,BEEF FLAVORED DOG TREATS,$2.78 ,$0.17 ,1/30/26,Winco_MoVal
+2217.jpg,pet_animal,JERKY STICKS DOG TREATS,$3.38 ,$0.21 ,1/30/26,Winco_MoVal
+2220.jpg,pet_animal,CHEESE FLAVOR DOG TREATS,$3.28 ,$0.21 ,1/30/26,Winco_MoVal
+2240.jpg,pet_animal,THISTLE BIRD SEED,$2.48 ,$0.16 ,1/30/26,Winco_MoVal
+2244.jpg,pet_animal,DOG DENTAL STICKS,$7.48 ,$0.47 ,1/30/26,Winco_MoVal
+2274.jpg,pet_animal,HUNTERS SPECL ADLT DOG FOOD,$0.68 ,$0.04 ,1/30/26,Winco_MoVal
+2295.jpg,pet_animal,CAT FOOD,$0.78 ,$0.05 ,1/30/26,Winco_MoVal
+5587.jpg,pet_animal,PARROT FOOD,$2.18 ,$0.14 ,1/30/26,Winco_MoVal
+1342.jpg,spices,CUMIN SEEDS WHOLE,$7.18 ,$0.45 ,2/1/26,Winco_MoVal
+1358.jpg,spices,CHILI POWDER EXTRA HOT,$5.38 ,$0.34 ,2/1/26,Winco_MoVal
+1362.jpg,spices,ALLSPICE GROUND,$12.28 ,$0.77 ,2/1/26,Winco_MoVal
+1363.jpg,spices,CELERY SEED WHOLE,$3.88 ,$0.24 ,2/1/26,Winco_MoVal
+1431.jpg,spices,FENNEL SEED WHOLE,$4.98 ,$0.31 ,2/1/26,Winco_MoVal
+1504.jpg,spices,TURMERIC GROUND,$4.58 ,$0.29 ,2/1/26,Winco_MoVal
+1516.jpg,spices,ROASTED GARLIC PEPPER BLEND,$6.38 ,$0.40 ,2/1/26,Winco_MoVal
+1517.jpg,spices,HERB & CRACKED PEPPERCORN,$6.38 ,$0.40 ,2/1/26,Winco_MoVal
+1538.jpg,spices,ANISE SEED,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+1544.jpg,spices,PAPRIKA SMOKED HOT,$6.58 ,$0.41 ,2/1/26,Winco_MoVal
+1662.jpg,spices,GRANULATED ONION,$6.18 ,$0.39 ,2/1/26,Winco_MoVal
+1665.jpg,spices,GROUND MUSTARD,$6.78 ,$0.42 ,2/1/26,Winco_MoVal
+1666.jpg,spices,BASIL,$6.38 ,$0.40 ,2/1/26,Winco_MoVal
+1667.jpg,spices,CAYENNE PEPPER,$6.08 ,$0.38 ,2/1/26,Winco_MoVal
+1668.jpg,spices,CURRY POWDER MILD,$4.38 ,$0.27 ,2/1/26,Winco_MoVal
+1669.jpg,spices,GARLIC POWDER,$5.68 ,$0.36 ,2/1/26,Winco_MoVal
+1670.jpg,spices,ITALIAN SEASONING,$4.78 ,$0.30 ,2/1/26,Winco_MoVal
+1671.jpg,spices,ONION SALT,$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+1672.jpg,spices,PEPPERCORNS,$8.18 ,$0.51 ,2/1/26,Winco_MoVal
+1673.jpg,spices,CREAM OF TARTAR,$7.08 ,$0.44 ,2/1/26,Winco_MoVal
+1674.jpg,spices,DILL WEED,$13.28 ,$0.83 ,2/1/26,Winco_MoVal
+1675.jpg,spices,GROUND CUMIN,$5.58 ,$0.35 ,2/1/26,Winco_MoVal
+1676.jpg,spices,CHOPPED ONION,$6.28 ,$0.39 ,2/1/26,Winco_MoVal
+1677.jpg,spices,GROUND BLACK PEPPER,$7.08 ,$0.44 ,2/1/26,Winco_MoVal
+1679.jpg,spices,SEASONING SALT (JOHNNYS),$3.78 ,$0.24 ,2/1/26,Winco_MoVal
+1681.jpg,spices,GROUND GINGER,$6.78 ,$0.42 ,2/1/26,Winco_MoVal
+1682.jpg,spices,CHILI POWDER,$4.88 ,$0.31 ,2/1/26,Winco_MoVal
+1684.jpg,spices,CINNAMON,$5.58 ,$0.35 ,2/1/26,Winco_MoVal
+1685.jpg,spices,ONION POWDER,$5.38 ,$0.34 ,2/1/26,Winco_MoVal
+1686.jpg,spices,GARLIC SALT,$2.18 ,$0.14 ,2/1/26,Winco_MoVal
+1687.jpg,spices,PARSLEY FLAKES,$10.08 ,$0.63 ,2/1/26,Winco_MoVal
+1690.jpg,spices,TACO SEASONING,$5.28 ,$0.33 ,2/1/26,Winco_MoVal
+1692.jpg,spices,OREGANO,$6.68 ,$0.42 ,2/1/26,Winco_MoVal
+1696.jpg,spices,RUBBED SAGE,$11.08 ,$0.69 ,2/1/26,Winco_MoVal
+1699.jpg,spices,POPPY SEEDS,$4.38 ,$0.27 ,2/1/26,Winco_MoVal
+1701.jpg,spices,WHOLE BAY LEAF,$7.88 ,$0.49 ,2/1/26,Winco_MoVal
+1702.jpg,spices,CINNAMON STICKS,$14.58 ,$0.91 ,2/1/26,Winco_MoVal
+1703.jpg,spices,WHOLE CLOVE,$15.18 ,$0.95 ,2/1/26,Winco_MoVal
+1705.jpg,spices,GROUND NUTMEG,$9.98 ,$0.62 ,2/1/26,Winco_MoVal
+1706.jpg,spices,PAPRIKA,$6.78 ,$0.42 ,2/1/26,Winco_MoVal
+1709.jpg,spices,LEMON PEPPER SEASONING,$3.98 ,$0.25 ,2/1/26,Winco_MoVal
+1712.jpg,spices,POULTRY SEASONING WITH SALT,$3.48 ,$0.22 ,2/1/26,Winco_MoVal
+1714.jpg,spices,DRIED THYME,$5.48 ,$0.34 ,2/1/26,Winco_MoVal
+1723.jpg,spices,SMOKED PAPRIKA (SPANISH),$6.88 ,$0.43 ,2/1/26,Winco_MoVal
+1743.jpg,spices,CILANTRO DRIED,$11.98 ,$0.75 ,2/1/26,Winco_MoVal
+1744.jpg,spices,APPLE SEASON RUB,$5.88 ,$0.37 ,2/1/26,Winco_MoVal
+1745.jpg,spices,SMOKEHOUSE RUB,$4.88 ,$0.31 ,2/1/26,Winco_MoVal
+1759.jpg,spices,CRUSHED CHILI PEPPER,$8.08 ,$0.51 ,2/1/26,Winco_MoVal
+1763.jpg,spices,ROSEMARY,$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+1768.jpg,spices,SEASONING WESTERN BBQ,$3.78 ,$0.24 ,2/1/26,Winco_MoVal
+1771.jpg,spices,PEPPER STEAK SEASONING,$8.38 ,$0.52 ,2/1/26,Winco_MoVal
+1782.jpg,spices,RANCH STYLE STEAK SEASONING,$4.28 ,$0.27 ,2/1/26,Winco_MoVal
+1798.jpg,spices,ARROWROOT STARCH/FLOUR (BOBS RED MILL),$5.08 ,$0.32 ,2/1/26,Winco_MoVal
+2167.jpg,spices,BACKYARD BBQ RUB,$6.38 ,$0.40 ,2/1/26,Winco_MoVal
+2176.jpg,spices,PSYLLIUM HUSK POWDER (KFK),$16.28 ,$1.02 ,2/1/26,Winco_MoVal
+2282.jpg,spices,GARAM MASALA,$8.38 ,$0.52 ,2/1/26,Winco_MoVal
+2328.jpg,spices,PEPPERCORN MIX,$15.78 ,$0.99 ,2/1/26,Winco_MoVal
+2389.jpg,spices,HIBISCUS FLOWER DRIED,$8.48 ,$0.53 ,2/1/26,Winco_MoVal
+2405.jpg,spices,GRANULATED GARLIC,$6.48 ,$0.41 ,2/1/26,Winco_MoVal
+2413.jpg,spices,POTATO STARCH GLUTEN FREE,$2.38 ,$0.15 ,2/1/26,Winco_MoVal
+2437.jpg,spices,CHIVES,$27.38 ,$1.71 ,2/1/26,Winco_MoVal
+2440.jpg,spices,MINCED GARLIC,$6.38 ,$0.40 ,2/1/26,Winco_MoVal
+2441.jpg,spices,MINCED ONION,$6.28 ,$0.39 ,2/1/26,Winco_MoVal
+2482.jpg,spices,CITRIC ACID,$7.78 ,$0.49 ,2/1/26,Winco_MoVal
+2934.jpg,spices,CORIANDER GROUND,$5.18 ,$0.32 ,2/1/26,Winco_MoVal
+2935.jpg,spices,SMOKEY CAJUN SEASONING,$7.48 ,$0.47 ,2/1/26,Winco_MoVal
+5564.jpg,spices,WHITE PEPPER GROUND (GEL SPICE),$11.18 ,$0.70 ,2/1/26,Winco_MoVal
+5565.jpg,spices,FENUGREEK (GEL SPICE),$3.08 ,$0.19 ,2/1/26,Winco_MoVal
+5576.jpg,spices,VEGGIE SOUP BLEND (GEL SPICE),$6.68 ,$0.42 ,2/1/26,Winco_MoVal
+5577.jpg,spices,ONION SOUP (GEL SPICE),$4.78 ,$0.30 ,2/1/26,Winco_MoVal
+5579.jpg,spices,PICKLING SPICE (GEL SPICE),$5.88 ,$0.37 ,2/1/26,Winco_MoVal
+5596.jpg,spices,TABASCO MINI,$0.48 ,$0.03 ,2/1/26,Winco_MoVal
+5644.jpg,spices,EVERYTHING BAGEL SEASONING,$4.58 ,$0.29 ,2/1/26,Winco_MoVal
+1372.jpg,trailmix_snacks,TRICOLOR POPCORN,$1.98 ,$0.12 ,2/1/26,Winco_MoVal
+1462.jpg,trailmix_snacks,YOGURT PRETZELS,$3.58 ,$0.22 ,2/1/26,Winco_MoVal
+1483.jpg,trailmix_snacks,CRANBERRY ALMOND MIX,$5.38 ,$0.34 ,2/1/26,Winco_MoVal
+1494.jpg,trailmix_snacks,PARADISE MIX,$3.78 ,$0.24 ,2/1/26,Winco_MoVal
+1513.jpg,trailmix_snacks,PEANUT BUTTER PRETZELS,$4.08 ,$0.26 ,2/1/26,Winco_MoVal
+1661.jpg,trailmix_snacks,YELLOW POPCORN,$0.98 ,$0.06 ,2/1/26,Winco_MoVal
+1663.jpg,trailmix_snacks,WHITE POPCORN,$0.98 ,$0.06 ,2/1/26,Winco_MoVal
+1764.jpg,trailmix_snacks,SWEET & SPICY CRUNCH MIX,$3.38 ,$0.21 ,2/1/26,Winco_MoVal
+1854.jpg,trailmix_snacks,PEANUTS HOT & SPICY (TOLTECA),$5.58 ,$0.35 ,2/1/26,Winco_MoVal
+1937.jpg,trailmix_snacks,DELUXE TRAIL MIX,$4.08 ,$0.26 ,2/1/26,Winco_MoVal
+1940.jpg,trailmix_snacks,CANYON RUNNER TRAIL MIX,$6.28 ,$0.39 ,2/1/26,Winco_MoVal
+1951.jpg,trailmix_snacks,MINI TWIST PRETZELS,$2.08 ,$0.13 ,2/1/26,Winco_MoVal
+1952.jpg,trailmix_snacks,PRETZEL STIX,$2.08 ,$0.13 ,2/1/26,Winco_MoVal
+1957.jpg,trailmix_snacks,HONEY ROASTED MINI CHIP,$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+1958.jpg,trailmix_snacks,FLAX SEED CORN CHIP,$3.78 ,$0.24 ,2/1/26,Winco_MoVal
+1961.jpg,trailmix_snacks,SZECHUAN SESAME MIX,$4.38 ,$0.27 ,2/1/26,Winco_MoVal
+1964.jpg,trailmix_snacks,PARTY MIX,$3.38 ,$0.21 ,2/1/26,Winco_MoVal
+1968.jpg,trailmix_snacks,SUPER DELUXE TRAIL MIX,$3.88 ,$0.24 ,2/1/26,Winco_MoVal
+1973.jpg,trailmix_snacks,BLAZING TRAIL MIX,$3.68 ,$0.23 ,2/1/26,Winco_MoVal
+1981.jpg,trailmix_snacks,YOGURT RAISINS,$4.98 ,$0.31 ,2/1/26,Winco_MoVal
+1982.jpg,trailmix_snacks,RICE CRACKERS,$4.28 ,$0.27 ,2/1/26,Winco_MoVal
+1988.jpg,trailmix_snacks,PACIFIC CREST TRAIL MIX,$3.28 ,$0.21 ,2/1/26,Winco_MoVal
+1992.jpg,trailmix_snacks,CORN NUGGETS ROASTED SALTED,$2.58 ,$0.16 ,2/1/26,Winco_MoVal
+1993.jpg,trailmix_snacks,SESAME STIX,$3.28 ,$0.21 ,2/1/26,Winco_MoVal
+1994.jpg,trailmix_snacks,SPICY CAJUN CORN NUGGETS,$2.88 ,$0.18 ,2/1/26,Winco_MoVal
+2003.jpg,trailmix_snacks,CHOCOLATE PB TRAIL MIX,$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+2066.jpg,trailmix_snacks,OKRA CHIPS,$14.88 ,$0.93 ,2/1/26,Winco_MoVal
+2069.jpg,trailmix_snacks,SWEET AND SAVORY MIX,$3.58 ,$0.22 ,2/1/26,Winco_MoVal
+2088.jpg,trailmix_snacks,HONEY MUSTARD TRAIL MIX,$4.88 ,$0.31 ,2/1/26,Winco_MoVal
+2109.jpg,trailmix_snacks,WASABI SWEET SPICY MIX,$4.08 ,$0.26 ,2/1/26,Winco_MoVal
+2123.jpg,trailmix_snacks,FRUIT AND NUT TRAIL MIX,$3.98 ,$0.25 ,2/1/26,Winco_MoVal
+2128.jpg,trailmix_snacks,POWER BLEND PISTACHIO MIX (SETTON),$8.68 ,$0.54 ,2/1/26,Winco_MoVal
+2131.jpg,trailmix_snacks,SPICY FIESTA NUT MIX,$4.08 ,$0.26 ,2/1/26,Winco_MoVal
+2136.jpg,trailmix_snacks,LEMONCELLO ALMONDS (SCONZA),$9.08 ,$0.57 ,2/1/26,Winco_MoVal
+2140.jpg,trailmix_snacks,NATURE FINEST MIX,$8.68 ,$0.54 ,2/1/26,Winco_MoVal
+2141.jpg,trailmix_snacks,JAPANESE PEANUTS (SUNRISE),$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+2143.jpg,trailmix_snacks,CARAMEL POPCORN (LEHI VALLEY),$3.28 ,$0.21 ,2/1/26,Winco_MoVal
+2179.jpg,trailmix_snacks,RECHARGE TRAIL MIX,$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+2222.jpg,trailmix_snacks,CRAN-SLAM TRAIL MIX,$5.78 ,$0.36 ,2/1/26,Winco_MoVal
+2231.jpg,trailmix_snacks,BERRY BEST PROTEIN MIX,$7.28 ,$0.46 ,2/1/26,Winco_MoVal
+2301.jpg,trailmix_snacks,MT HOOD MIX,$4.08 ,$0.26 ,2/1/26,Winco_MoVal
+2303.jpg,trailmix_snacks,PB&J PRETZEL NUGGETS,$6.18 ,$0.39 ,2/1/26,Winco_MoVal
+2357.jpg,trailmix_snacks,PORK RINDS,$6.98 ,$0.44 ,2/1/26,Winco_MoVal
+2391.jpg,trailmix_snacks,WASABI PEAS,$4.18 ,$0.26 ,2/1/26,Winco_MoVal
+2395.jpg,trailmix_snacks,ICED ANIMAL COOKIES,$4.78 ,$0.30 ,2/1/26,Winco_MoVal
+2432.jpg,trailmix_snacks,PLANTAIN CHIPS,$5.18 ,$0.32 ,2/1/26,Winco_MoVal
+2457.jpg,trailmix_snacks,PLANTAIN CHIP SPICY,$5.58 ,$0.35 ,2/1/26,Winco_MoVal
+2467.jpg,trailmix_snacks,CHICKPEAS ROASTED SALTED (ANCHOR),$3.68 ,$0.23 ,2/1/26,Winco_MoVal
+2591.jpg,trailmix_snacks,EDAMAME ROASTED SALTED,$3.98 ,$0.25 ,2/1/26,Winco_MoVal
+2594.jpg,trailmix_snacks,SWEET & SALTY MIX,$3.98 ,$0.25 ,2/1/26,Winco_MoVal
+5401.jpg,trailmix_snacks,PEANUT PALOOZA,$4.28 ,$0.27 ,2/1/26,Winco_MoVal
+5402.jpg,trailmix_snacks,ANTIOXIDANT TRAIL MIX,$5.28 ,$0.33 ,2/1/26,Winco_MoVal
+5641.jpg,trailmix_snacks,VALEN YOGURT HEART PRETZEL,$4.48 ,$0.28 ,2/1/26,Winco_MoVal
+5730.jpg,trailmix_snacks,VEGGIE CHIP MIX (SUNRISE),$11.18 ,$0.70 ,2/1/26,Winco_MoVal
+5751.jpg,trailmix_snacks,STRAWBERRY YOGURT ALMOND,$5.48 ,$0.34 ,2/1/26,Winco_MoVal

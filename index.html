@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+</head>
+<body>
+  <h2 style="font-family: sans-serif; margin: 20px;">Project Data Viewer</h2>
+  <div id="wrapper"></div>
+
+  <script src="https://unpkg.com/gridjs/dist/grid.umd.js"></script>
+  <script>
+    new gridjs.Grid({
+      search: true,
+      sort: true,
+      pagination: true,
+      resizable: true,
+      server: {
+        url: 'Winco_Data.csv',
+        then: data => data.split("\n").map(row => row.split(","))
+      }
+    }).render(document.getElementById("wrapper"));
+  </script>
+</body>
+</html>
