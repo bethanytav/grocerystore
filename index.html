@@ -1,23 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+    <meta charset="UTF-8">
+    <title>Winco Prices</title>
+    <link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
 </head>
 <body>
+
     <h2 style="font-family: sans-serif; margin: 20px;">Grocery Store Prices</h2>
+    
     <div id="wrapper"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/grid.umd.js"></script>
 
     <script>
-        function renderTable() {
-            // Safety check: is the library actually here?
-            if (typeof gridjs === 'undefined') {
-                console.error("Grid.js failed to load. Trying again in 1 second...");
-                setTimeout(renderTable, 1000);
-                return;
-            }
-
+        // This function runs once the library above is loaded
+        window.onload = function() {
             new gridjs.Grid({
                 search: true,
                 sort: true,
@@ -25,15 +23,14 @@
                 server: {
                     url: 'Winco_Data.csv',
                     then: data => {
+                        // This turns your CSV text into a table
                         const rows = data.trim().split("\n");
                         return rows.map(row => row.split(","));
                     }
                 }
             }).render(document.getElementById("wrapper"));
-        }
-
-        // Run the function
-        renderTable();
+        };
     </script>
+
 </body>
 </html>
